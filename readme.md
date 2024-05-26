@@ -57,3 +57,13 @@ export default App;
 ```
 
 #### Navigating between Pages with Links
+
+#### Navigating PRogrammatically
+
+- Imperative Routing
+
+#### Defining & Using Dynamic Routes
+
+- React Router Dom allows you to support dynamic path segments or path parameters
+
+#### Understanding Relative and Absolute Paths
